@@ -1,0 +1,123 @@
+.head{
+    color: rgb(235, 14, 14);
+    background-color: bisque;
+    margin-bottom: 2px;
+}
+.mailinfo{
+    width: 100%;
+    height:30px ;
+    background-color: aqua;
+    color: white;
+    padding-left: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 5px;
+}
+.sec1{
+    width: 100%;
+    height:500px;
+    background-size: cover;
+    background-image: url("pictures/desk1.jpg");
+}
+
+.sec2{
+    width: 100%;
+    height:500px;
+    background-color: aliceblue;
+}
+.head2{
+    font-size: 155%;
+    padding-left: 15%;
+}
+.spanit{
+    color: rgb(245, 3, 3);
+    font-size: 156%;
+}
+.para1{
+    float:left;
+    padding-left: 7%;
+    margin-right: 35%;
+    line-height: 30px;
+    font-size: 120% ;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    text-justify: distribute;
+}
+.para2{
+    margin-top: 15px;
+    float:left;
+    padding-left: 7%;
+    margin-right: 35%;
+    line-height: 30px;
+    font-size: 120% ;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.para3{
+    margin-top: 15px;
+    float:left;
+    padding-left: 7%;
+    margin-right: 35%;
+    line-height: 30px;
+    font-size: 120% ;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.form{
+    box-sizing: border-box;
+    width: ;
+}
+.sec3{
+    width: 100%;
+    height:500px;
+    background-color: red;
+    padding: 3px;
+    margin: 2px;
+}
+.sec4{
+    width: 100%;
+    height:500px;
+    background-color: rgb(128, 149, 245);
+    padding: 3px;
+    margin: 2px;
+}
+.sec5{
+    width: 100%;
+    height:500px;
+    background-color: rgb(220, 223, 91);
+    padding: 3px;
+    margin: 2px;
+}
+.image{
+    float: right;
+    padding-right: 30px;
+}
+#para1{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+
+  
+}
+.image01{
+    width: 20%;
+    padding: 15px;    
+    padding-left:35px;
+    padding-top: 150px;
+}
+.image01:hover{
+    width: 23%;
+
+}
+.fix{
+    width: 30%;
+    height: 45%;
+    padding-top: 45%;
+    padding-left: 40%;
+    padding-bottom: 45px;
+
+
+}
+.btn{
+    width: 45%;
+    height: 15%;
+}

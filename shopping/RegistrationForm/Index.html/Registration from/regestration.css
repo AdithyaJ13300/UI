@@ -1,0 +1,20 @@
+*{
+display:grid;
+background-color: rgb(222, 235, 235);
+justify-content: center;
+padding: 5%;
+}
+.container{
+    padding: 50px;
+    background-color: rgb(233, 243, 243);
+}
+.name{
+    width: 500px;
+}
+input{
+    width: 300px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+

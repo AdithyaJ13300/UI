@@ -1,0 +1,18 @@
+*{
+    display:grid;
+    background-color: rgb(222, 235, 235);
+    justify-content: space-around;
+    padding: 5px;
+    }
+img{
+    float: left;
+    width: 25%;
+}
+.main{
+    display: flex;
+}
+.car1{
+    display: flex;
+    float: left;
+    justify-content: left;
+}
